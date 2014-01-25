@@ -1,0 +1,6 @@
+G:\Repository\C#\Lesson01\Lesson01\bin\Debug\Lesson01.exe.config
+G:\Repository\C#\Lesson01\Lesson01\bin\Debug\Lesson01.exe
+G:\Repository\C#\Lesson01\Lesson01\bin\Debug\Lesson01.pdb
+G:\Repository\C#\Lesson01\Lesson01\obj\Debug\Lesson01.exe
+G:\Repository\C#\Lesson01\Lesson01\obj\Debug\Lesson01.pdb
+G:\Repository\C#\Lesson01\Lesson01\obj\Debug\Lesson01.csprojResolveAssemblyReference.cache

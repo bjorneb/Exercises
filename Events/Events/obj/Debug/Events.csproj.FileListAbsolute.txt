@@ -1,0 +1,8 @@
+G:\Repository\C#\Events\Events\bin\Debug\Events.exe.config
+G:\Repository\C#\Events\Events\bin\Debug\Events.exe
+G:\Repository\C#\Events\Events\bin\Debug\Events.pdb
+G:\Repository\C#\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+G:\Repository\C#\Events\Events\obj\Debug\Events.Properties.Resources.resources
+G:\Repository\C#\Events\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+G:\Repository\C#\Events\Events\obj\Debug\Events.exe
+G:\Repository\C#\Events\Events\obj\Debug\Events.pdb
